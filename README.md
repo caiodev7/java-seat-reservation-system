@@ -1,29 +1,24 @@
-Sistema de Reserva de Assentos em Java
+# Sistema de Reservas de Assentos em Java
 
-Projeto desenvolvido em Java como pratica de estudos em orientacao a objetos.
+Projeto desenvolvido em Java utilizando:
 
-Sobre o projeto :
+- Orientação a Objetos
+- Encapsulamento
+- Arrays
+- Scanner
+- Estruturas condicionais
+- Estruturas de repetição
 
-O sistema simula uma reserva de assentos utilizando vetores e classes em Java.
+## Funcionalidades
 
-O usuario pode:
+- Cadastro de quartos alugados
+- Listagem de quartos ocupados
 
- Escolher quantos assentos deseja reservar
- Informar nome e email
- Escolher o numero do assento
- Visualizar os assentos ocupados ao final da execucao
+## Tecnologias
 
-Conceitos utilizados
+- Java
+- IntelliJ IDEA
 
-Durante o desenvolvimento foram utilizados conceitos importantes de Java, como:
+## Objetivo
 
-Orientacao a Objetos
- Encapsulamento
- Construtores
- Vetores
- Scanner
- Estruturas condicionais
- Estruturas de repeticao
- Packages
- Importacao de classes
-
+Projeto desenvolvido como prática de estudos em Java.

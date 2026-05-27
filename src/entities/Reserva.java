@@ -1,6 +1,7 @@
 package entities;
 
 public class Reserva {
+
     private String nome;
     private String email;
 
@@ -27,7 +28,9 @@ public class Reserva {
 
     @Override
     public String toString() {
-        return
-                 nome + "," + email;
+        return   "nome='" + nome +
+                ", email='" + email;
     }
 }
+
+
